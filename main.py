@@ -31,7 +31,7 @@ def translate_now():
 
 
 # arrow
-arrow_image = PhotoImage(file="Python Programming/Practice Exercises/Python Projects/Mega Project - Translator/arrow.png")
+arrow_image = PhotoImage(file="arrow.png")
 image_label = Label(root,image=arrow_image,width=150)
 image_label.place(x=460,y=50)
 
